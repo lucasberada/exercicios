@@ -1,0 +1,11 @@
+C:\Users\52041722894\Documents\exercicios\poligonos\bin\Debug\netcoreapp2.2\poligonos.deps.json
+C:\Users\52041722894\Documents\exercicios\poligonos\bin\Debug\netcoreapp2.2\poligonos.runtimeconfig.json
+C:\Users\52041722894\Documents\exercicios\poligonos\bin\Debug\netcoreapp2.2\poligonos.runtimeconfig.dev.json
+C:\Users\52041722894\Documents\exercicios\poligonos\bin\Debug\netcoreapp2.2\poligonos.dll
+C:\Users\52041722894\Documents\exercicios\poligonos\bin\Debug\netcoreapp2.2\poligonos.pdb
+C:\Users\52041722894\Documents\exercicios\poligonos\obj\Debug\netcoreapp2.2\poligonos.csprojAssemblyReference.cache
+C:\Users\52041722894\Documents\exercicios\poligonos\obj\Debug\netcoreapp2.2\poligonos.csproj.CoreCompileInputs.cache
+C:\Users\52041722894\Documents\exercicios\poligonos\obj\Debug\netcoreapp2.2\poligonos.AssemblyInfoInputs.cache
+C:\Users\52041722894\Documents\exercicios\poligonos\obj\Debug\netcoreapp2.2\poligonos.AssemblyInfo.cs
+C:\Users\52041722894\Documents\exercicios\poligonos\obj\Debug\netcoreapp2.2\poligonos.dll
+C:\Users\52041722894\Documents\exercicios\poligonos\obj\Debug\netcoreapp2.2\poligonos.pdb
