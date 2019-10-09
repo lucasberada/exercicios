@@ -1,0 +1,4 @@
+C:\Users\52041722894\Documents\exercicios\create\criar\obj\Debug\netcoreapp2.2\criar.csprojAssemblyReference.cache
+C:\Users\52041722894\Documents\exercicios\create\criar\obj\Debug\netcoreapp2.2\criar.csproj.CoreCompileInputs.cache
+C:\Users\52041722894\Documents\exercicios\create\criar\obj\Debug\netcoreapp2.2\criar.AssemblyInfoInputs.cache
+C:\Users\52041722894\Documents\exercicios\create\criar\obj\Debug\netcoreapp2.2\criar.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\52041722894\Documents\exercicios\todo list\lista\bin\Debug\netcoreapp2.2\lista.deps.json
+C:\Users\52041722894\Documents\exercicios\todo list\lista\bin\Debug\netcoreapp2.2\lista.runtimeconfig.json
+C:\Users\52041722894\Documents\exercicios\todo list\lista\bin\Debug\netcoreapp2.2\lista.runtimeconfig.dev.json
+C:\Users\52041722894\Documents\exercicios\todo list\lista\bin\Debug\netcoreapp2.2\lista.dll
+C:\Users\52041722894\Documents\exercicios\todo list\lista\bin\Debug\netcoreapp2.2\lista.pdb
+C:\Users\52041722894\Documents\exercicios\todo list\lista\obj\Debug\netcoreapp2.2\lista.csprojAssemblyReference.cache
+C:\Users\52041722894\Documents\exercicios\todo list\lista\obj\Debug\netcoreapp2.2\lista.csproj.CoreCompileInputs.cache
+C:\Users\52041722894\Documents\exercicios\todo list\lista\obj\Debug\netcoreapp2.2\lista.AssemblyInfoInputs.cache
+C:\Users\52041722894\Documents\exercicios\todo list\lista\obj\Debug\netcoreapp2.2\lista.AssemblyInfo.cs
+C:\Users\52041722894\Documents\exercicios\todo list\lista\obj\Debug\netcoreapp2.2\lista.dll
+C:\Users\52041722894\Documents\exercicios\todo list\lista\obj\Debug\netcoreapp2.2\lista.pdb

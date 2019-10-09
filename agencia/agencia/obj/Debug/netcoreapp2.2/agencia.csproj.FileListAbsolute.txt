@@ -1,0 +1,11 @@
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\obj\Debug\netcoreapp2.2\agencia.csprojAssemblyReference.cache
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\obj\Debug\netcoreapp2.2\agencia.csproj.CoreCompileInputs.cache
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\obj\Debug\netcoreapp2.2\agencia.AssemblyInfoInputs.cache
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\obj\Debug\netcoreapp2.2\agencia.AssemblyInfo.cs
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\bin\Debug\netcoreapp2.2\agencia.deps.json
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\bin\Debug\netcoreapp2.2\agencia.runtimeconfig.json
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\bin\Debug\netcoreapp2.2\agencia.runtimeconfig.dev.json
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\bin\Debug\netcoreapp2.2\agencia.dll
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\bin\Debug\netcoreapp2.2\agencia.pdb
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\obj\Debug\netcoreapp2.2\agencia.dll
+C:\Users\52041722894\Documents\exercicios\agencia\agencia\obj\Debug\netcoreapp2.2\agencia.pdb

@@ -1,0 +1,4 @@
+C:\Users\52041722894\Documents\exercicios\vetor\vetor\obj\Debug\netcoreapp2.2\vetor.csprojAssemblyReference.cache
+C:\Users\52041722894\Documents\exercicios\vetor\vetor\obj\Debug\netcoreapp2.2\vetor.csproj.CoreCompileInputs.cache
+C:\Users\52041722894\Documents\exercicios\vetor\vetor\obj\Debug\netcoreapp2.2\vetor.AssemblyInfoInputs.cache
+C:\Users\52041722894\Documents\exercicios\vetor\vetor\obj\Debug\netcoreapp2.2\vetor.AssemblyInfo.cs
