@@ -64,6 +64,7 @@ namespace lista
 
                     case 3:
                     Console.WriteLine("tchau!");
+                    saveItem(todolist,@filepath);
 
                     break;
 
@@ -139,6 +140,39 @@ namespace lista
                 }
 
             } while (true);
+        }
+
+       static void saveItem(List<TodoItem>lista, string filepath)
+        {
+            List<string>linhas = new List <string>();
+            foreach(TodoItem item in lista)
+            {
+                string titulo= "\"" + item.Title +"\"";
+                string nota= "\"" + item.Note +"\"";
+                linhas.Add(titulo + "," + nota);
+            }
+            do
+            {
+
+            try
+            {
+
+            File.WriteAllLines(filepath,linhas);
+            tryAgain = "n";
+
+            }catch(IOException e)
+            {
+                Console.WriteLine("Erro na gravação do arquivo. ");
+                Console.WriteLine(e.Message);
+
+                do {
+                    Console.WriteLine("deseja tentar novamente (s/n)");
+                    tryAgain = Console.ReadLine().ToLower();
+
+                    }while(tryAgain == "s" || tryAgain =='n');
+
+            }
+            }while(tryAgain !="n");
         }
     }
 }
